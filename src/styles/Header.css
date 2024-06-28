@@ -1,0 +1,16 @@
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .site-name {
+    font-size: 4rem;
+    color: rgb(51, 165, 231);
+    text-shadow: 2px 2px 0 #fff, -2px 2px 0 #fff, 2px -2px 0 #fff, -2px -2px 0 #fff;
+  }
+  
+  .site-subtitle {
+    font-size: 1rem;
+    color: rgb(51, 165, 231);
+    text-shadow: 2px 2px 0 #fff, -2px 2px 0 #fff, 2px -2px 0 #fff, -2px -2px 0 #fff;
+  }  
